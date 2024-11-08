@@ -1,1 +1,2 @@
 # air-pollution-dash-board
+An Air Pollution Dashboard is an interactive data visualization tool that displays real-time and historical information related to air quality in a particular region or across multiple locations. The dashboard typically collects data from air quality monitoring stations and environmental sensors to present an overview of air pollution levels. It is designed to provide a clear, accessible, and informative way to track air pollution and its various components, helping users understand the impact of pollutants on health and the environment.
